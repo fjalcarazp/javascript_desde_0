@@ -1,3 +1,5 @@
+// Instalar WAMPSERVER: https://www.youtube.com/watch?v=Y3yOtPZgrWU
+
 const form = document.getElementById('form')
 const characters = document.getElementById('characters')
 const table = document.getElementById('table')
